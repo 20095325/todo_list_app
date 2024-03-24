@@ -1,6 +1,7 @@
 # todo_list_app
 
 A new Flutter project.
+This is a completed todo list app
 
 ## Getting Started
 
